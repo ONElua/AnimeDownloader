@@ -26,7 +26,7 @@ Agradecimiento especial a Yairo por hacer el diseño de la burbuja bg0.png
  - *([Yairo](https://twitter.com/geckos_lover)).* Twitter
 - *([GeckosLover](https://www.facebook.com/GeckosLover0?mibextid=ZbWKwL)).* Facebook
 
-### Debo mencionar que hace trabajos de diseño por si gustan contactarlo.
+### Debo mencionar que Yairo hace trabajos de diseño por si gustan contactarlo.
 
 # Testers:
 - *([Akira fudo](https://twitter.com/akirafu57737345)).* Twitter.

@@ -30,6 +30,6 @@ Agradecimiento especial a Yairo por hacer el diseño de la burbuja bg0.png
 
 # Testers:
 - *([Akira fudo](https://twitter.com/akirafu57737345)).* Twitter.
-- Edu billic de la comunidad GAMERS Latinoamerica y por apoyarme a rediseñar el bg0.png
+- Edu Bellic de la comunidad GAMERS Latinoamerica y por apoyarme a rediseñar el bg0.png
 - Angel Classic de la comunidad GAMERS Latinoamerica.
 - Luck Mustang de la comunidad GAMERS Latinoamerica.

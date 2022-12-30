@@ -20,14 +20,16 @@ ux0:data/ANIMEDOWN/cover.mp3
 Los capítulos subidos a las páginas pueden ser o no reproducidos en la vita, esto depende totalmente de cada página de animes, de ahí que solo se cuenta con algunas páginas en la aplicación.
 
 # Creditos:
-Agradecimiento especial a Yairo por hacer el diseño de la burbuja bg0.png
- - *([Yairo](https://twitter.com/geckos_lover)).*
-https://www.facebook.com/GeckosLover0?mibextid=ZbWKwL en facebook.
+- *([Difranx](https://youtube.com/@Difranx?feature=shares)).* Por el video para la comunidad GAMERS Latinoamerica
 
-Debo mencionar que hace trabajos de diseño por si gustan contactarlo.
+Agradecimiento especial a Yairo por hacer el diseño de la burbuja bg0.png
+ - *([Yairo](https://twitter.com/geckos_lover)).* Twitter
+- *([GeckosLover](https://www.facebook.com/GeckosLover0?mibextid=ZbWKwL)).* Facebook
+
+### Debo mencionar que hace trabajos de diseño por si gustan contactarlo.
 
 # Testers:
-- *([Akira fudo](https://twitter.com/akirafu57737345)).*
-- Edu billic de la comunidad GAMERS Latinoamerica.
+- *([Akira fudo](https://twitter.com/akirafu57737345)).* Twitter.
+- Edu billic de la comunidad GAMERS Latinoamerica y por apoyarme a rediseñar el bg0.png
 - Angel Classic de la comunidad GAMERS Latinoamerica.
 - Luck Mustang de la comunidad GAMERS Latinoamerica.

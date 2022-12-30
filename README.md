@@ -21,13 +21,13 @@ Los capítulos subidos a las páginas pueden ser o no reproducidos en la vita, e
 
 # Creditos:
 Agradecimiento especial a Yairo por hacer el diseño de la burbuja bg0.png
-@geckos_lover en Twitter.
+ - *([Yairo](https://twitter.com/geckos_lover)).*
 https://www.facebook.com/GeckosLover0?mibextid=ZbWKwL en facebook.
 
 Debo mencionar que hace trabajos de diseño por si gustan contactarlo.
 
 # Testers:
-- Akira fudo @akirafu57737345 en Twitter.
+- *([Akira fudo](https://twitter.com/akirafu57737345)).*
 - Edu billic de la comunidad GAMERS Latinoamerica.
 - Angel Classic de la comunidad GAMERS Latinoamerica.
 - Luck Mustang de la comunidad GAMERS Latinoamerica.

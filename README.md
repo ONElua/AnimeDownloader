@@ -3,9 +3,11 @@ Descarga y Visualiza Anime en tu PS Vita (Solo para America Latina)
 
 AnimeDownloader es una aplicación para la psvita con una interfaz gráfica simple para poder descargar y visualizar tu anime favorito.
 
+![header](screenshots/1.png)
+
 La aplicación esta basada en anime subtitulado al español, consiste en conectarse a las páginas de anime y permitir descargar o visualizar los capítulos en la vita, para lograr esto, se debe mencionar que solo funcionará con videos en formato 720p y que son compatibles con la limitaciones de la consola psvita.
 
-Puedes colocar un mp3 de fondo,  el mp3 no debe pasar los 20mb, debes colocarlo en la ruta:
+Puedes colocar un mp3 de fondo, el mp3 no debe pasar los 20mb, debes colocarlo en la ruta:
 ux0:data/ANIMEDOWN/cover.mp3
 
 # Características:

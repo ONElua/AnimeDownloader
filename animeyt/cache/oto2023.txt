@@ -1,4 +1,4 @@
--- Total =  60
+-- Total =  61
 temporal = {
   {
     name = '16bit Sensation: Another Layer',
@@ -131,6 +131,16 @@ temporal = {
     episodes = 11,
   },
   {
+    name = 'Estoy enamorada de la villana (Audio Latino)',
+    url = "https://animeyt.es/tv/estoy-enamorada-de-la-villana-audio-latino/",
+    name_cover = "ciWMNodeEpNd.jpg",
+    url_cover = "https://i0.wp.com/animeyt.es/wp-content/uploads/2023/10/ciWMNodeEpNd.jpg",
+    day = 10,
+    genre = " Comedia Escolar Fantasía Isekai Yuri",
+    details = ' Una asalariada normal llamada Rae Oohashi se despierta en el cuerpo de la protagonista de Revolution,\nsu juego otome favorito. Para su deleite, la primera persona que la recibe es también su personaje\nfavorito, Claire François, ¡la antagonista de la historia! Ahora Rae está decidida a dejar de lado a sus otros\npretendientes y tener una aventura con la villana. Pero, ¿cómo reaccionará Claire ante este apasionado\nataque?',
+    episodes = 1,
+  },
+  {
     name = 'FLCL: Shoegaze',
     url = "https://animeyt.es/tv/flcl-shoegaze/",
     name_cover = "BbHTJEgpjkmu.jpg",
@@ -138,7 +148,7 @@ temporal = {
     day = 10,
     genre = " Acción Ciencia ficción Comedia Mecha Parodia",
     details = ' Estreno: 1 de Octubre de 2023. Quinta temporada de FLCL. Naota vive en una\npequeña ciudad normal y corriente hasta que un día es atropellado por una moto Vesper conducida por\nuna mujer que se hace llamar Haruko Haruhara. A partir de ese día, la cabeza de Naota se ve atormentada\npor un misterioso robot… La impresionante música de THE PILLOWS y las atrevidas ilustraciones de\nYoshiyuki Sadamoto hacen de este éxito del año 2000 de Gainax una película imprescindible. Este es\ntambién el momento en el que el estilo artístico de Yoshiyuki Sadamoto cambia una vez más.',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Goblin Slayer II',
@@ -398,7 +408,7 @@ temporal = {
     day = 10,
     genre = " Drama Música",
     details = ' Estreno: 3 de Octubre de 2023. En un futuro no muy lejano, la cultura hip-hop asiste a\nla aparición de todo un nuevo movimiento llamado “Phantom Live”. Los raperos crean ilusiones\nvinculadas a sus emociones utilizando accesorios químicamente reactivos fabricados con “Phantom\nMetal“: una misteriosa sustancia metálica. Basadas en su propio ADN, las ilusiones son tan\npoderosas que crean espectaculares puestas en escena que enloquecen a los jóvenes espectadores. Sin\nembargo, esta nueva tecnología tiene un coste: entre bastidores, los artistas sufren “ilusiones\ntraumáticas“, peligrosos efectos secundarios… Con este telón de fondo, cuatro bandas\ninmensamente populares en sus respectivos géneros: BAE, The Cat’s Whisker’s, Cozmez y Akan\nYatsura, compiten para demostrar que su estilo es el mejor de todos. Durante otra batalla en el legendario\nClub Paradox, el grupo Cozmez consigue atraer la atención del legendario dúo Buraikan, pero el desastre\nimpide su enfrentamiento.',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Pluto',
@@ -458,7 +468,7 @@ temporal = {
     day = 10,
     genre = " Fantasía Isekai Romance",
     details = ' Estreno: 3 de Octubre de 2023. Segunda temporada de Seijo no Maryoku wa Bannou\ndesu. La oficinista Sei Takanashi entra inesperadamente en un círculo mágico una noche al volver a casa\ntras un duro día de trabajo y abrir la puerta de su piso, que la transporta a un mundo alternativo. El motivo\nde esta indeseada excursión es una ceremonia del reino de Slantania, en la que hay que convocar a un\n“santo“. Según la tradición, este santo tiene la capacidad de combatir a los demonios y\npurificar el miasma que se extiende por el reino. Sin embargo, para sorpresa de los magos de la corte real,\notra joven llamada Aira Misono apareció junto a Sei como resultado de la invocación. ',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Seiken Gakuin no Makentsukai',
@@ -538,7 +548,7 @@ temporal = {
     day = 10,
     genre = " Acción Aventura Comedia Fantasía Juegos",
     details = ' Estreno: 2 de Octubre de 2023. En esta historia, aparece en el mercado un nuevo tipo\nde VRMMO llamado One More Free Life Online. Taichi Tanaka (38 años, soltero) es un oficinista corriente\nal que le gusta jugar a videojuegos en su tiempo libre. Se crea un personaje en este juego, un chico joven\nllamado “Tierra“, y decide dominar las habilidades más arduas, como hacer pociones\ncomplejas, preparar platos con estadísticas demasiado efectivas e incluso utilizar armas inusuales para\nacabar con los monstruos.',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Tokyo Revengers: Tenjiku-hen',
@@ -548,7 +558,7 @@ temporal = {
     day = 10,
     genre = " Acción Drama Shounen Supernatural Viajes en el tiempo",
     details = ' Estreno: 3 de Octubre de 2023. Tercera temporada de Tokyo Revengers. La vida de\nTakemichi Hanagaki ha tocado fondo. Justo cuando pensaba que las cosas no podían ir peor, se entera de\nque Hinata Tachibana, su ex novia, ha sido asesinada por la Banda Manji de Tokio: un grupo de\ndespiadados criminales que llevan tiempo perturbando la paz de la sociedad. Takemichi se pregunta a\npartir de qué momento todo pudo salir tan mal. Poco después, se encuentra viajando en el tiempo 12 años\natrás, a la época en la que aún estaba con Hinata. Al darse cuenta de que tiene la oportunidad de salvarla,\nTakemichi decide infiltrarse en la Banda Manji de Tokio y escalar posiciones para reescribir el futuro y\nsalvar a Hinata de su trágico destino.',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Uma Musume: Pretty Derby Temporada 3',

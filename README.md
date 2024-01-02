@@ -21,6 +21,10 @@ ux0:data/ANIMEDOWN/cover.mp3
 ## Nota importante:
 Los capítulos subidos a las páginas pueden ser o no reproducidos en la vita, esto depende totalmente de cada página de animes, de ahí que solo se cuenta con algunas páginas en la aplicación.
 
+### Changelog 2.03 ###
+- Solucionado error con la detección de nueva temporadas para animeYT
+- Actualización de base de datos (cache) para todas las paginas.
+
 # Creditos:
 - *([Difranx](https://youtube.com/@Difranx?feature=shares)).* Por el video para la comunidad GAMERS Latinoamerica
 

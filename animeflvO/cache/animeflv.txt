@@ -1,4 +1,4 @@
--- Total =  48
+-- Total =  51
 FLVList = {
   {
     name = '30-sai made Doutei dato Mahoutsukai ni Nareru Rashii',
@@ -28,7 +28,7 @@ FLVList = {
     day = 12,
     genre = " Acción Escolares Fantasía Shounen",
     details = ' Tercera temporada de Ao no Exorcist',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Boku no Kokoro no Yabai Yatsu',
@@ -38,7 +38,17 @@ FLVList = {
     day = 12,
     genre = " Comedia Escolares Shounen",
     details = ' Kyotaro Ichikawa puede parecer el típico estudiante de secundaria, pero en su corazón sueña con el\nasesinato. Por ello, no es de extrañar que la persona que más desea matar nunca esté lejos de su mente:\nla ídolo de la clase, Anna Yamada. Leyendo a solas en la biblioteca de su querida escuela, empieza a\nencontrarse sin querer con Yamada, que viene a atiborrarse en secreto de sus queridos caramelos y\ndulces. A través de sus interacciones, Ichikawa descubre lo tonta que es Yamada, y no puede evitar\napoyarla desde la barrera. Mientras tanto, la propia Yamada no puede evitar burlarse implacablemente de\nIchikawa debido a sus reacciones atolondradas. Gracias a una serie de interacciones cotidianas muy\nconmovedoras, el vínculo distante entre ambos se convierte en algo más que simples conocidos de\nbiblioteca. Tal vez, con el tiempo, Ichikawa llegue a darse cuenta de que sus deseos asesinos se han\nconvertido en algo totalmente distinto.',
-    episodes = 13,
+    episodes = 14,
+  },
+  {
+    name = 'Bucchigiri?!',
+    url = "https://www3.animeflv.net/anime/bucchigiri",
+    name_cover = "3948.jpg",
+    url_cover = "https://animeflv.net/uploads/animes/covers/3948.jpg",
+    day = 12,
+    genre = "",
+    details = ' El reencuentro de Arajin Tomoshibi con su viejo amigo Matakara Asamine da un giro inesperado cuando\ntropiezan en una pelea con los tipos más duros de la ciudad. Y justo cuando pensaban que las cosas no\npodían ponerse más raras, un genio colosal decide dejarse caer por allí.',
+    episodes = 1,
   },
   {
     name = 'Buta no Liver wa Kanetsu Shiro',
@@ -68,7 +78,7 @@ FLVList = {
     day = 12,
     genre = " Acción Fantasía",
     details = ' Lo que debía ser el habitual camino de regreso a casa para Usato, acaba convirtiéndose en una aventura\nde proporciones épicas. Tras ser invocado a otro mundo por sorpresa junto a dos de sus compañeros,\nUsato descubre que él solo está allí por accidente. Todo cambia por completo cuando en el otro mundo\ndescubren que Usato tiene una gran afinidad con la magia sanadora. Ahora tendrá que soportar un\nentrenamiento inhumano y usar sus habilidades sanadoras en sí mismo para obtener una fuerza y una\nresistencia incomparables.',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Detective Conan',
@@ -188,6 +198,16 @@ FLVList = {
     day = 12,
     genre = " Acción Ecchi Fantasía Harem Romance Seinen",
     details = ' Sato es un chico de preparatoria enamorado de su mejor amiga, Hime, una chica preciosa que procede de\notro mundo. Cuando ella regresa a su mundo natal para casarse, no se lo piensa dos veces: la sigue y\necha por tierra la boda. Cuando Hime le besa, Sato se convierte en el nuevo novio, pero lo que él no sabía\nes que Hime es una de las Princesas de los Anillos y su esposo está destinado a ser el Rey del Anillo, un\nhéroe con un poder inmenso.',
+    episodes = 2,
+  },
+  {
+    name = 'Kingdom 5th Season',
+    url = "https://www3.animeflv.net/anime/kingdom-5th-season",
+    name_cover = "3949.jpg",
+    url_cover = "https://animeflv.net/uploads/animes/covers/3949.jpg",
+    day = 12,
+    genre = " Acción Historico Militar Seinen",
+    details = ' Quinta temporada de Kingdom',
     episodes = 1,
   },
   {
@@ -198,7 +218,7 @@ FLVList = {
     day = 12,
     genre = " Drama Historico Misterio",
     details = ' Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden\ncomo sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la\nfamilia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi,\nun guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del\nemperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos\nmisterios!',
-    episodes = 13,
+    episodes = 14,
   },
   {
     name = 'Kyuujitsu no Warumono-san',
@@ -248,7 +268,7 @@ FLVList = {
     day = 12,
     genre = " Acción Comedia Escolares Fantasía Parodia Shounen",
     details = ' Este es un mundo de magia. Este es un mundo en el que todos usan la magia habitualmente. En un\nbosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario. Su nombre es\nMash Burnedead y tiene un secreto: no puede usar magia. Lo único que quería era vivir tranquilo con su\nfamilia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y\nacaba inscrito en una escuela mágica, donde su objetivo será convertirse en el Iluminado Divino, el\nalumno más formidable, el elegido de Dios. ¿Podrán sus poderosos músculos derrotar a los más brillantes\nusuarios de magia? ¡Se alza el telón de esta historia de magia y fantasía peculiar en el que la fuerza puede\ncon la magia!',
-    episodes = 13,
+    episodes = 14,
   },
   {
     name = 'Mato Seihei no Slave',
@@ -268,7 +288,7 @@ FLVList = {
     day = 12,
     genre = " Acción Drama Shounen",
     details = ' Tres jóvenes bomberos aspiran a convertirse en miembros del cuerpo de rescate especial conocido como\nOrange. Para ello, los tres deben pasar las pruebas preliminares en las que les ha tocado el instructor\nmás duro que había y que les hará sudar para lograr su objetivo.',
-    episodes = 13,
+    episodes = 14,
   },
   {
     name = 'Metallic Rouge',
@@ -288,7 +308,7 @@ FLVList = {
     day = 12,
     genre = " Fantasía Romance Shoujo",
     details = ' El decimosexto cumpleaños de Himari será inolvidable para ella. Inesperadamente, recibe un testamento\ndonde le dejan en herencia una misteriosa casa: la Casa Momochi. Al llegar allí descubre que dicha casa\nestaba construida en el límite entre el mundo humano y el reino espiritual. Allí conoce a Yukari, Ise y un\npeculiar chico llamado Aoi que parece esconder un secreto.',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Nozomanu Fushi no Boukensha',
@@ -298,7 +318,7 @@ FLVList = {
     day = 12,
     genre = " Acción Aventuras Fantasía",
     details = ' Rentt Faina, un aventurero de 25 años de edad, ha estado luchando contra los monstruos por más de una\ndécada. No obstante, sin mucho talento para el trabajo, Rentt siempre termina luchando contra slimes y\ngoblins por una mísera cantidad de dinero al día. Poco sabe que todo esto está a punto de cambiar cuando\ndescubre un camino secreto hacia el Laberinto de la Luna. Lo que le espera al final del camino, sin\nembargo, no es un tesoro o riquezas, sino un legendario dragón que no pierde el tiempo en devorarlo.\nPoco después, Rentt despierta, pero descubre que no ha muerto, ni está vivo tampoco. Ahora es solo una\npila de huesos. Armado con nada más que su confiable espada, su cinturón de herramientas y una nueva\naterradora apariencia, Rentt comenzará una nueva aventura como un esqueleto en la búsqueda de un\nmítico objeto que, con suerte, le devolverá su forma humana.',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'One Piece',
@@ -318,7 +338,7 @@ FLVList = {
     day = 12,
     genre = " Acción Aventuras Fantasía",
     details = ' Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte.\nDespués de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con\nel Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está\ndecidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Oroka na Tenshi wa Akuma to Odoru',
@@ -338,7 +358,17 @@ FLVList = {
     day = 12,
     genre = " Acción Fantasía Shounen",
     details = ' En esta fantasía oscura llena de acción, la humanidad vive bajo la amenaza de ser aniquilada por dragones\ninmensamente poderosos. El cazador de dragones Ragna se embarca en una búsqueda de venganza para\neliminar esa amenaza de una vez por todas. Los cazadores de dragones son guerreros armados con armas\nespeciales de plata que matan a sus presas para obtener una recompensa. El más bajo de sus filas es\nRagna, que forma una improbable asociación con la joven genio Leonica, una maestra cazadora de\ndragones con más muertes a su nombre que casi cualquier otra. Todo lo que Ragna quiere es estar al lado\nde Leonica, pero su sueño se ve truncado por el ataque del dragón más mortífero que se pueda imaginar…',
-    episodes = 12,
+    episodes = 13,
+  },
+  {
+    name = 'Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.',
+    url = "https://www3.animeflv.net/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+    name_cover = "3946.jpg",
+    url_cover = "https://animeflv.net/uploads/animes/covers/3946.jpg",
+    day = 12,
+    genre = " Aventuras Fantasía",
+    details = ' En este mundo las estrellas que tienen las habilidades lo son todo. Cuando la protagonista descubrió que\nsu habilidad, Domador, no poseía estrellas algunas, no tardó en ver cómo la gente de su pueblo la\ndespreciaba, ¡pues eso era señal de que atraería la desgracia! Exiliada, ahora viaja en solitario rebuscando\nentre la basura para sobrevivir. O así era hasta que conoció a Sora en el bosque, un pequeño y débil\nslime. Juntos prosiguen su viaje por la supervivencia e Ivy descubre que puede hacer mucho que ser una\nsimple sinestrellas.',
+    episodes = 1,
   },
   {
     name = 'Saikyou Tank no Meikyuu Kouryaku',
@@ -348,7 +378,7 @@ FLVList = {
     day = 12,
     genre = " Acción Aventuras Fantasía",
     details = ' Rud no se adentra en laberintos para proteger al grupo del Héroe solo por dinero, sino que lo hace con el\nfin de poder curar a su hermana enferma. Cuenta la leyenda que dentro de los laberintos hay un tesoro\nque concede deseos, pero antes de que Rud lo encuentre, el prepotente héroe de su grupo le echa. Dado\nque no tiene adonde ir, Rud se ve obligado a volver a casa, no sin antes salvar a una joven que le revela su\nverdadero poder: ¡tiene la defensa más alta de la historia!',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Sasaki to Pii-chan',
@@ -358,7 +388,7 @@ FLVList = {
     day = 12,
     genre = " Aventuras Comedia Fantasía",
     details = ' Sasaki es un oficinista de mediana edad que vive en Japón. La monotonía del mundo laboral le agota, así\nque un día decide entrar en una tienda de animales en busca de un nuevo compañero. Allí encuentra un\nadorable pájaro llamado Pi y se lo lleva a casa. Pero Sasaki no tarda en descubrir que Pi no es un pájaro\ncualquiera... ¡Es un mago muy poderoso proveniente de otro mundo! Juntos, se embarcan en una aventura\nmágica llena de espadas y hechicería.',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Sengoku Youko',
@@ -369,16 +399,6 @@ FLVList = {
     genre = " Acción Aventuras Drama Fantasía Shounen",
     details = ' Los humanos y lo katawara están en guerra, pero en ambos bandos hay quienes deciden unir fuerzas.\nTama es un espíritu zorro que adora a los humanos, mientras que su hermano jurado Jinka, un sabio, los\nodia. Juntos usarán el poder de la transformación espiritual para derrotar a los monstruos katawara y\nponer fin a las maldades de esta era de barbaries. ¿Qué destino aguardará a esta pareja al final de su\nviaje?',
     episodes = 1,
-  },
-  {
-    name = 'Shadowverse Flame',
-    url = "https://www3.animeflv.net/anime/shadowverse-flame",
-    name_cover = "3590.jpg",
-    url_cover = "https://animeflv.net/uploads/animes/covers/3590.jpg",
-    day = 12,
-    genre = " Fantasía Juegos",
-    details = ' Hiiro Ryugasaki es un estudiante de la Academia Tensei que un día se encuentra un misterioso\nsmartphone que ya tiene instalado el popular juego de cartas Shadowverse, ¡ese al que juegan todos sus\ncompañeros y él estaba deseando poder probar! Hiiro conocerá a rivales, forjará vínculos, participará en\ntorneos, y vivirá todo tipo de experiencias gracias a Shadowverse para evolucionar.',
-    episodes = 75,
   },
   {
     name = 'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su',
@@ -401,6 +421,16 @@ FLVList = {
     episodes = 1,
   },
   {
+    name = 'Snack Basue',
+    url = "https://www3.animeflv.net/anime/snack-basue",
+    name_cover = "3947.jpg",
+    url_cover = "https://animeflv.net/uploads/animes/covers/3947.jpg",
+    day = 12,
+    genre = " Comedia",
+    details = ' El bar Basue se encuentra a cinco estaciones del mayor barrio de Hokkaido. En dicho bar, regentado por\nbasue y su ayudante Akemi, se producen todo tipo de situaciones con los clientes que aparecen por él, ya\nsean clientes de toda la vida o clientes nuevos.',
+    episodes = 1,
+  },
+  {
     name = 'Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.',
     url = "https://www3.animeflv.net/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
     name_cover = "3921.jpg",
@@ -418,7 +448,7 @@ FLVList = {
     day = 12,
     genre = " Aventuras Drama Fantasía Shounen",
     details = ' La maga Frieren formaba parte del grupo del héroe Himmel, quienes derrotaron al Rey Demonio tras un\nviaje de 10 años y devolvieron la paz al reino. Frieren es una elfa de más de mil años de vida, así que al\ndespedirse de Himmel y sus compañeros promete que regresará para verlos y parte de viaje sola. Al cabo\nde cincuenta años, Frieren cumple su promesa y acude a visitar a Himmel y al resto. Aunque ella no ha\ncambiado, Himmel y los demás han envejecido y están en el final de sus vidas. Cuando Himmel muere,\nFrieren se arrepiente de no haber pasado más tiempo a su lado conociéndolo, así que emprende un viaje\npara conocer mejor a sus antiguos compañeros, a las personas y descubrir más del mundo.',
-    episodes = 17,
+    episodes = 18,
   },
   {
     name = 'Synduality: Noir',
@@ -448,7 +478,7 @@ FLVList = {
     day = 12,
     genre = " Acción Comedia Shounen Sobrenatural Superpoderes",
     details = ' Tras leer la conclusión de su serie de manga favorita, Fuuko Izumo se siente finalmente preparada para\nponer fin a su existencia. Durante los últimos 10 años, Fuuko se ha visto afectada por una condición que\ntrae consigo una desgracia extrema para cualquiera que la toque. Esto ha tenido un efecto drástico en su\nentorno, e incluso ha provocado inadvertidamente la muerte de quienes la rodean, incluidos sus padres.\nMientras se encuentra en un puente sobre las vías del tren, Fuuko es tocada por un extraño hombre, lo\nque hace que se rompa la base y lo deje caer frente a un tren que se aproxima. Sin embargo, cuando\nFuuko encuentra el cadáver del hombre, descubre que su cuerpo se está regenerando y que vuelve a la\nvida. El hombre, al que Fuuko llama Andy, es inmortal y, como ella, también desea la muerte. Al principio,\nFuuko se muestra reticente, pero finalmente decide formar un equipo con Andy para darle la mejor muerte\nposible; pero una misteriosa organización acecha en las sombras, esperando aprovecharse de las extrañas\nhabilidades del dúo.',
-    episodes = 12,
+    episodes = 14,
   },
   {
     name = 'Urusei Yatsura (2022)',
@@ -478,6 +508,6 @@ FLVList = {
     day = 12,
     genre = " Romance",
     details = ' Yuki Itose es una típica estudiante que lidia con las presiones de la universidad. Un día tiene problemas\nen el tren cuando un compañero llamado Itsuomi Nagi le echa una mano. A medida que él el abre un\nmundo nuevo a ella, Yuki empieza a sentir algo por Itsuomi. Una historia de amor pura empieza a crecer.',
-    episodes = 1,
+    episodes = 2,
   },
 }

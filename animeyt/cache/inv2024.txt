@@ -1,4 +1,4 @@
--- Total =  38
+-- Total =  39
 temporal = {
   {
     name = '30-sai made Doutei dato Mahoutsukai ni Nareru Rashii',
@@ -48,7 +48,7 @@ temporal = {
     day = 10,
     genre = " Acción Fantasía Isekai",
     details = ' Un día de lluvia, Inukami Suzune y Ryuusen Kazuki, dos estudiantes de instituto admirados por toda su\nescuela, ofrecen a Usato Ken, su Kohai que no tiene paraguas, llevarle a casa compartiendo el suyo. En el\ncamino, ¡el trío es repentinamente convocado a otro mundo! Aunque Suzune y Kazuki han sido\nconvocados como héroes, parece que Ken no es más que un daño colateral, y que le es imposible volver\nal lugar de donde vino. Sin embargo, resulta que el joven esconde un importante poder mágico en su\ninterior, que bien podría ser útil para salvar este mundo… ¡A Ken no le queda más remedio que someterse\na un entrenamiento draconiano para aprender a dominar sus poderes!',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Dosanko Gal wa Namara Menkoi',
@@ -148,7 +148,7 @@ temporal = {
     day = 10,
     genre = " Acción Ecchi Fantasía Harem Isekai Romance Seinen",
     details = ' Satou está enamorado de Hime, su amiga y vecina de la infancia, desde que ella y su abuelo aparecieron\nde la nada hace diez años. Así que cuando ella le dice que va a volver a su mundo original para casarse, su\nprimer instinto es seguirla y arruinar su boda. Todo sale según lo previsto y Satou se convierte en el\nnuevo novio gracias a un beso de Hime. Pero lo que Satou no sabe es que el hombre que se case con\nHime está destinado a convertirse en un héroe con inmensos poderes y salvar el mundo. ¿Estará Satô a la\naltura del desafío, o será demasiada responsabilidad para un solo chico de instituto?',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru',
@@ -178,7 +178,7 @@ temporal = {
     day = 10,
     genre = " Acción Fantasía Seinen",
     details = ' Guido y Ashaf son miembros de la Orden del Eco Negro: una organización cuyo objetivo es vigilar y\ncontrolar el uso de la brujería para evitar cualquier exceso. En una nueva misión, el dúo es enviado a un\npueblo en manos de una bruja, que al parecer ha conseguido convencer a los habitantes de que en\nrealidad es su benefactora. Para Ashaf, un mago experimentado que siempre cumple sus obligaciones con\nla mayor seriedad, se trata ni más ni menos que de una misión rutinaria. Para Guido, una joven testaruda,\nsalvaje y calenturienta, se trata de una nueva oportunidad de acercarse a la bruja que la maldijo en el\npasado y de la que se ha olvidado por completo. Una cosa es segura: cualquiera que se interponga en su\ncamino tendrá que pagar el precio, ya sea una turba enfurecida o una guarnición militar.',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Mashle Temporada 2',
@@ -199,6 +199,16 @@ temporal = {
     genre = " Acción Ecchi Fantasía Harem",
     details = ' Estreno: 4 de Enero. En Mato, una ciudad de una dimensión demoníaca, hay una fruta\nque da superpoderes a las mujeres que la comen. Estas mujeres son miembros de los escuadrones\nanti-demonios. Acorralado por una horda de monstruos en esta dimensión, el joven Yûki Wakura es\nsalvado por los pelos por una joven capaz de transformarle en una criatura superpoderosa. Pero activar\neste poder tiene una condición: debe convertirse en su esclavo…',
     episodes = 2,
+  },
+  {
+    name = 'Meitou “Isekai no Yu” Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita',
+    url = "https://animeyt.es/tv/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita/",
+    name_cover = "1538j153j8153jj35j6158.jpg",
+    url_cover = "https://i2.wp.com/animeyt.es/wp-content/uploads/2024/01/1538j153j8153jj35j6158.jpg",
+    day = 10,
+    genre = " Ecchi Fantasía Isekai",
+    details = ' Yukawa Yoshizo, un hombre que perdió la vida en este mundo y se reencarnó en otro, se sorprende al\nencontrarse aquí. Las aguas termales que tanto le gustan son rechazadas por los elfos, que las consideran\n“fuentes malditas“. Sin embargo, este otro mundo es un paraíso de aguas termales\nnaturales. La única manera de razonar con ellos es difundir los beneficios de las aguas termales por todo\nel mundo.',
+    episodes = 1,
   },
   {
     name = 'Metallic Rouge',
@@ -228,7 +238,7 @@ temporal = {
     day = 10,
     genre = " Fantasía Mitología Romance Shoujo",
     details = ' Himari Momochi, una huérfana, hereda la antigua casa de la familia Momochi cuando cumple 16 años. Se\nsupone que la casa está embrujada por demonios, pero la joven insiste en mudarse. Así conoce a tres\ncuriosas residentes, Aoi, Yukari e Ise. Himari no tarda en descubrir que no son los únicos habitantes de la\ncasa. Aoi lucha contra los demonios que intentan invadir nuestro mundo, ya que la casa se encuentra en\nla frontera entre nuestros dos universos. A pesar de su determinación de permanecer aquí, Himari pronto\nse da cuenta de que está en peligro…',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Nozomanu Fushi no Boukensha',
@@ -238,7 +248,7 @@ temporal = {
     day = 10,
     genre = " Acción Aventura Fantasía",
     details = ' Lent lleva diez años queriendo convertirse en aventurero, pero se ha estancado en lo más bajo del\nescalafón. Un día, viaja a la Mazmorra de la Luna de Agua para entrenarse y encontrar recursos para\nvender. Pero se encuentra cara a cara con un Dragón, una criatura demoníaca que normalmente nunca\nvisitaría una mazmorra clasificada como “principiante“. Paralizado por su poder, es devorado\ny muere. Sin embargo, despierta bajo la forma de un demonio esqueleto. Desorientado, consigue por fin\nbeneficiarse de la “evolución sustancial”, una habilidad que sólo poseen los monstruos, y decide hacer\ntodo lo que esté en su mano para volver a ser humano. ¡Y así comienza una batalla sin cuartel contra los\nmonstruos de la mazmorra!',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Oroka na Tenshi wa Akuma to Odoru',
@@ -278,7 +288,7 @@ temporal = {
     day = 10,
     genre = " Aventura Comedia Fantasía Isekai",
     details = ' El adorable pájaro que Sasaki compró en una tienda de mascotas, llamado P-chan, era en realidad un\nsabio reencarnado de otro mundo. Al tener la capacidad de viajar entre mundos y ser poseedor de una\npoderosa magia, Sasaki lleva productos modernos a este otro mundo y monta un negocio. Mientras viaja\nentre mundos, gana dinero, se entrena en magia y come deliciosos manjares, pretende llevar una vida\ntranquila y pausada, pero un día, de camino a casa desde el trabajo, conoce a alguien con unas\nhabilidades poco comunes. Utiliza la magia de su marca de salvia para salir adelante, pero sus habilidades\nson reconocidas de esta forma y es descubierto por la “Oficina de Contramedidas contra\nFenómenos Sobrenaturales“, y se le ofrece un trabajo como funcionario nacional…',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Sengoku Youko',
@@ -328,7 +338,7 @@ temporal = {
     day = 10,
     genre = " Acción Aventura Fantasía",
     details = ' Cuando aparecieron extraños portales en los cuatro rincones del mundo, la humanidad tuvo que encontrar\nuna solución para evitar ser masacrada por los monstruos que surgían de ellos. Al mismo tiempo, algunas\npersonas han desarrollado la habilidad de cazarlos. Estos intrépidos luchadores no dudan en sumergirse\nen el corazón de las mazmorras para combatir a las criaturas que albergan. Sung Jin Woo, un cazador de\nrango E considerado el más débil de todos, se adentra con un equipo en una mazmorra de rango D. Sin\nembargo, cuando se encuentran atrapados en una sala con monstruos que ni se acercan al nivel de la\nmazmorra, Jin Woo sucumbe. Justo cuando pensaba que estaba muerto, se despierta en el hospital con\nuna extraña habilidad: una interfaz virtual que le permite ser cada vez más fuerte. ¿Podrá convertirse en el\nmás poderoso de los Cazadores gracias a esta extraña habilidad?',
-    episodes = 1,
+    episodes = 2,
   },
   {
     name = 'Synduality: Noir',
@@ -358,7 +368,7 @@ temporal = {
     day = 10,
     genre = " Ciencia ficción Comedia Romance Shounen",
     details = ' Segunda temporada de Urusei Yatsura (2022). Remake moderno de la serie histórica ‘Lamu, la chica del\nespacio’. Ataru Moroboshi es un metedor de pata crónico y liga con todas las chicas que conoce,\nenfureciendo a su amiga de la infancia Shinobu. Su vida dará un vuelco con la llegada de la bella\nextraterrestre Lamu que, debido a un malentendido, ¡se enamorará perdidamente de él y se mudará a la\ncasa de los Moroboshi!',
-    episodes = 0,
+    episodes = 1,
   },
   {
     name = 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e III',
@@ -378,6 +388,6 @@ temporal = {
     day = 10,
     genre = " Romance Shoujo",
     details = ' Yuki es una estudiante que, como muchas otras, construye su vida cotidiana en torno a sus amigos, las\nredes sociales y las cosas que le gustan. Pero cuando un día conoce en el tren a un joven que viaja por el\nmundo, su mundo da un vuelco: aunque es trilingüe, no conoce la lengua de signos. Sin embargo, pronto\nmuestra un interés muy especial por ella… ¿Cómo reaccionará ante este compañero emprendedor y\ncomunicativo?',
-    episodes = 1,
+    episodes = 2,
   },
 }

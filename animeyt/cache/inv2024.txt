@@ -1,4 +1,4 @@
--- Total =  46
+-- Total =  49
 temporal = {
   {
     name = '30-sai made Doutei dato Mahoutsukai ni Nareru Rashii',
@@ -128,7 +128,7 @@ temporal = {
     day = 10,
     genre = " Aventura Fantasía Isekai Recuentos de la vida Reencarnación",
     details = ' Estreno: 1 de Enero. A la tierna edad de 27 años, Midori Akitsu murió por exceso de\ntrabajo y, de repente, se reencarnó en otro mundo, y Dios le otorgó una habilidad especial. Esta\nextraordinaria habilidad, que le garantiza el amor de cualquier criatura no humana, le permite acercarse y\nacariciar a todo tipo de monstruos, cada uno más peligroso que el anterior, como un dragón o un tigre\nblanco… Bajo la apariencia de Nema, la hija menor de una importante familia noble, la antigua asalariada\npretende sacar el máximo partido a su nueva vida, ¡aprovechando los numerosos placeres que le ofrece\neste nuevo mundo!',
-    episodes = 3,
+    episodes = 4,
   },
   {
     name = 'Ishura',
@@ -161,6 +161,16 @@ temporal = {
     episodes = 3,
   },
   {
+    name = 'Kingdom Temporada 5',
+    url = "https://animeyt.es/tv/kingdom-temporada-5/",
+    name_cover = "S4Sbop41to6nNkJJq.jpg",
+    url_cover = "https://i3.wp.com/animeyt.es/wp-content/uploads/2024/01/S4Sbop41to6nNkJJq.jpg",
+    day = 10,
+    genre = " Acción Histórico Militar Seinen",
+    details = ' Quinta temporada de Kingdom. Tras los disturbios en el reino de Chu, Qin no ve otra opción que dirigir\nsus ataques contra Zhao. Por ello, Xin recibe la orden de unir a sus hombres con Huan Yi, un poderoso\ngeneral Qin. Sin embargo, sus métodos chocan desde el principio.',
+    episodes = 2,
+  },
+  {
     name = 'La domadora más débil inició un viaje para recoger basura (Audio Latino)',
     url = "https://animeyt.es/tv/la-domadora-mas-debil-inicio-un-viaje-para-recoger-basura-audio-latino/",
     name_cover = "f18541g89q15g8.jpg",
@@ -178,7 +188,7 @@ temporal = {
     day = 10,
     genre = " Fantasía Reencarnación Romance",
     details = ' En contra de las apariencias, la duquesa Rishe ya está viviendo su séptima vida. De hecho, está atrapada\nen un bucle temporal que la lleva a un trágico final a los 20 años, sólo para que su vida vuelva a la\nnormalidad cuando se rompe su compromiso. Después de haber vivido vidas completamente distintas,\nRishe decide aprovechar al máximo su séptima vida pasando los días holgazaneando. Sin embargo, cuando\nestá a punto de escapar del castillo para comenzar su nueva vida de holgazanería, se le acerca el hombre\nque la mató en su vida anterior, Arnold, el príncipe heredero del Imperio Galkhein. Pero para su gran\nsorpresa, y sin que ella sepa por qué, él le confiesa lo que siente por ella y le pide que se case con él.',
-    episodes = 2,
+    episodes = 3,
   },
   {
     name = 'Maboroshi',
@@ -281,6 +291,26 @@ temporal = {
     episodes = 3,
   },
   {
+    name = 'Monsters: El infierno del Dragón (Audio Latino)',
+    url = "https://animeyt.es/tv/monsters-el-infierno-del-dragon/",
+    name_cover = "lk5DbMNyvAjeiFDq.jpg",
+    url_cover = "https://i2.wp.com/animeyt.es/wp-content/uploads/2024/01/lk5DbMNyvAjeiFDq.jpg",
+    day = 10,
+    genre = " Fantasía Shounen",
+    details = ' Hambriento, el joven samurái Ryuma es salvado de una muerte segura por una generosa camarera, que le\nofrece una comida sin esperar nada a cambio. Mientras recupera sus fuerzas, un extraño hombre llamado\nCyrano, con fama de haber salvado a la ciudad de un terrible dragón en el pasado, enfada a Ryuma\ntocándole el sable sin su consentimiento. A partir de esta afrenta entabla entonces un duelo a muerte,\napenas interrumpido por la camarera. Pero cuando Ryuma reanuda su viaje, un poderoso dragón\ndestructor ataca la ciudad, poco después de que un desconocido comience a propagar rumores maliciosos\nsobre el guerrero errante, afirmando haber sido atacado por éste, que habría liberado al dragón rompiendo\nel cuerno que portaba. Rápidamente, Ryuma comprende que el desconocido y Cyrano están confabulados\ny que utilizan al dragón como pretexto para saquear las riquezas de las ciudades que visitan. Guiado por\nsu valor y el deseo de proteger a la camarera que le tendió la mano cuando estaba necesitado, Ryuma\ndecide dar caza a la criatura alada para proteger la ciudad y limpiar su honor.',
+    episodes = 1,
+  },
+  {
+    name = 'Monsters: Ippyaku Sanjou Hiryuu Jigoku',
+    url = "https://animeyt.es/tv/monsters-ippyaku-sanjou-hiryuu-jigoku/",
+    name_cover = "1a51he85hb1bh8.jpg",
+    url_cover = "https://i0.wp.com/animeyt.es/wp-content/uploads/2024/01/1a51he85hb1bh8.jpg",
+    day = 10,
+    genre = " Fantasía Shounen",
+    details = ' Hambriento, el joven samurái Ryuma es salvado de una muerte segura por una generosa camarera, que le\nofrece una comida sin esperar nada a cambio. Mientras recupera sus fuerzas, un extraño hombre llamado\nCyrano, con fama de haber salvado a la ciudad de un terrible dragón en el pasado, enfada a Ryuma\ntocándole el sable sin su consentimiento. A partir de esta afrenta entabla entonces un duelo a muerte,\napenas interrumpido por la camarera. Pero cuando Ryuma reanuda su viaje, un poderoso dragón\ndestructor ataca la ciudad, poco después de que un desconocido comience a propagar rumores maliciosos\nsobre el guerrero errante, afirmando haber sido atacado por éste, que habría liberado al dragón rompiendo\nel cuerno que portaba. Rápidamente, Ryuma comprende que el desconocido y Cyrano están confabulados\ny que utilizan al dragón como pretexto para saquear las riquezas de las ciudades que visitan. Guiado por\nsu valor y el deseo de proteger a la camarera que le tendió la mano cuando estaba necesitado, Ryuma\ndecide dar caza a la criatura alada para proteger la ciudad y limpiar su honor.',
+    episodes = 1,
+  },
+  {
     name = 'Nozomanu Fushi no Boukensha',
     url = "https://animeyt.es/tv/nozomanu-fushi-no-boukensha/",
     name_cover = "liu5k1n8tfn1ds581d8.jpg",
@@ -368,7 +398,7 @@ temporal = {
     day = 10,
     genre = " Aventura Fantasía Romance",
     details = ' Segunda Temporada de Shin no Nakama y Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow\nLife suru Koto ni Shimashita. Red nació con unas habilidades increíbles y parece el candidato perfecto\npara unirse a los mejores héroes en la lucha por salvar el mundo… pero nadie le acepta. Completamente\ndesanimado, decide tomárselo con calma y hacerse farmacéutico en el campo. ¡Y así comienza su nueva\nvida!',
-    episodes = 2,
+    episodes = 3,
   },
   {
     name = 'Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.',

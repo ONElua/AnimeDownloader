@@ -1,0 +1,6 @@
+webs = {
+'ANIMEKB',
+'ANIMEYT',
+'TIOANIME'
+}
+
